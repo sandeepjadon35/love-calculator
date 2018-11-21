@@ -1,6 +1,6 @@
 def main():
-    name1=input("Enter the First Name : ")
-    name2=input("Enter the Second Name : ")
+    name1=input("Enter your Name : ")
+    name2=input("Enter Crush's Name : ")
     st=name1+"love"+name2
     print(str.upper(name1),"LOVE",str.upper(name2))
     su=part1(st)
